@@ -4,8 +4,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JoaoCarlosSB&show_icons=true&count_private=true&hide_border=true&title_color=008B8B&icon_color=008B8B&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoCarlosSB&layout=compact&hide_border=true&title_color=008B8B&text_color=008B8Bbg_color=0d1117" />
-</div>
+
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
